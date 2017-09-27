@@ -1,0 +1,8 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "DavydLiu/DLRadioButton" "1.4.9"
+github "mikebuss/MTBBarcodeScanner" "5.0.3"
+github "Hearst-DD/ObjectMapper" "2.2.6"
+github "SwiftyJSON/SwiftyJSON" "3.0.0"
+github "scalessec/Toast-Swift" "2.0.0"
+github "realm/realm-cocoa" "v2.4.4"
+github "tristanhimmelman/AlamofireObjectMapper" "4.1.0"
